@@ -17,6 +17,7 @@ Right Button = D2 <br>
 SD Card Chip Select = D3 for Seeed ESP32S3, 21 for Seeed Sense with built-in SD <br>
 TX = D6 <br>
 RX = D7 <br>
+<br>
 Features: <br>
 See all the stats from the Speeduino <br>
 Log stats from Speeduino in ASCII or binary<br>
