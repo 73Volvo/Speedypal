@@ -1,12 +1,12 @@
 # Speedypal
 A digital dashboard for Speeduino
 <br>
-This project started off with some code I found in Miata-Ardugauge https://github.com/iltHeo84/miata-ardugauge, which was based on Ardugauge. https://github.com/MielArrojado/speeduino-ardugauge
+This project started off with some code I found in Miata-Ardugauge https://github.com/iltHeo84/miata-ardugauge, which was based on Ardugauge. https://github.com/MielArrojado/speeduino-ardugauge <br>
 <br>
 I tested it with a Seeed Xiao ESP32S <br>
 An SD card is required for proper functioning <br>
 <br>
-It can work with or without an RTC for clock input <br>
+It can work with or without a DS3231 RTC for clock input <br>
 It can work with or without an .96" or 2.42" OLED screen <br>
 It can work with one or two OLED screens <br>
 <br>
