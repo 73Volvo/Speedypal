@@ -3,6 +3,9 @@ A digital dashboard for Speeduino
 <br>
 This project started off with some code I found in Miata-Ardugauge https://github.com/iltHeo84/miata-ardugauge, which was based on Ardugauge. https://github.com/MielArrojado/speeduino-ardugauge <br>
 <br>
+Demonstration: <br>
+https://www.youtube.com/watch?v=bLhW0_cCvp4 <br>
+<br>
 I tested it with a Seeed Xiao ESP32S3 CPU <br>
 An SD card is required for proper functioning <br>
 <br>
